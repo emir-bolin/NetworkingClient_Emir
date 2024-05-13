@@ -1,7 +1,8 @@
 import java.net.*;
 import java.io.*;
 
-public class Main {
+public class NetworkingClient {
+
     public static void main(String[] args) {
 
         Socket client = null;
